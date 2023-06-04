@@ -5,7 +5,8 @@
 <h4 align="center">
   ⚙ I'm Steven, an upcoming 3rd year Computer Science student at Carleton University and passionate developer with a love for technology.  <br> <br>
   
-  ✨ Check out my portfolio <a href="https://slin-1.github.io/" target="_blank">here!</a>
+  ✨ Check out my portfolio 
+  <a href="https://slin-1.github.io/" target="_blank">here!</a>
 </h4>
 
 <p align="center">
