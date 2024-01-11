@@ -3,7 +3,7 @@
 </h3>
 
 <h4 align="center">
-  ⚙ I'm Steven, an upcoming 3rd year Computer Science student at Carleton University and passionate developer with a love for technology.  <br> <br>
+  ⚙ I'm Steven, a 3rd year Computer Science student at Carleton University and passionate developer with a love for technology.  <br> <br>
   
   ✨ Check out my portfolio 
   <a href="https://slin-1.github.io/" target="_blank">here!</a>
