@@ -3,10 +3,12 @@
 </h3>
 
 <h4 align="center">
-  ⚙ I'm Steven, a 3rd year Computer Science student at Carleton University and passionate developer with a love for technology.  <br> <br>
+  ⚙ I'm Steven, a 4th year Computer Science student at Carleton University and passionate developer with a love for technology.  <br> <br>
   
   ✨ Check out my portfolio 
-  <a href="https://slin-1.github.io/" target="_blank">here!</a>
+  <a href="https://slin-1.github.io/" target="_blank">here!</a>  
+  
+  📫 How to reach me: stevenlin128@outlook.com
 </h4>
 
 <p align="center">
