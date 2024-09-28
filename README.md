@@ -8,7 +8,7 @@
   ✨ Check out my portfolio 
   <a href="https://slin-1.github.io/" target="_blank">here!</a>  
   
-  📫 How to reach me: stevenlin128@outlook.com
+  📫 How to reach me: stevenlin1238@outlook.com
 </h4>
 
 <p align="center">
